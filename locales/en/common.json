@@ -1,0 +1,15 @@
+{
+  "continue": "Continue",
+  "back": "Back",
+  "courses": "Levels",
+  "lessons": "Lessons",
+  "noCoursesFound": "No levels to show",
+  "noLessonsFound": "No lessons to show",
+  "beginCourse": "Begin Level",
+  "beginLesson": "Start lesson",
+  "correct": "Correct",
+  "inCorrect": "Incorrect",
+  "login": "Log In",
+  "logout": "Log Out",
+  "aboutFooter": "About this app"
+}
